@@ -2,8 +2,8 @@
 
 ## 1 주차 과제 (2020.05.21)
 
-(./인공지능_개론.ipynp "1주차 과제")
+(https://github.com/Hong-Seon/AI_/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B0%9C%EB%A1%A0.ipynb)
 
 ## 2 주차 과제 (2020.05.28)
 
-(2주차과제.ipynp "2주차 과제")
+
